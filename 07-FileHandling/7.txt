@@ -1,0 +1,26 @@
+a. All words 'Poland':
+\bPoland\b
+
+b. Country names (Poland, Germany, and France):
+\b(?:Poland|Germany|France)\b
+
+c. Punctuation marks (dots and commas):
+[.,]
+
+d. Numbers representing a year (four-digit numbers):
+\b\d{4}\b
+
+e. Capital letters:
+[A-Z]
+
+f. Vowels:
+[aeiou]
+
+g. Words with exactly five letters:
+\b\w{5}\b
+
+h. Words with at least five letters:
+\b\w{5,}\b
+
+i. Words starting with capital letters:
+\b[A-Z]\w*\b
