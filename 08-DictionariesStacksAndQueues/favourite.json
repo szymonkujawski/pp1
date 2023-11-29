@@ -1,0 +1,10 @@
+{
+      "title": "Fight Club",
+      "year": "1999",
+      "actor": {
+            "leading": "Edward Norton",
+            "supporting": "Brad Pitt"
+      },
+      "oscar": false,
+      "earnings": 100000000
+}
