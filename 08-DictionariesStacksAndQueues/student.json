@@ -1,0 +1,15 @@
+{
+      "Age": 20,
+      "Good_student": false,
+      "Name": "Szymon",
+      "Grades": [
+            3,
+            3,
+            3,
+            3
+      ],
+      "Appear": {
+            "Hair": "Blonde",
+            "Height": 175
+      }
+}
